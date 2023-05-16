@@ -1,21 +1,23 @@
 <h1 align="center"> Florian S</h1>
 
-Hi, I am Florian and I do Fullstack web development. Currently living in Paris 🇫🇷
+Hi, I am Florian and I am a software engineer working as a Fullstack web developer. Currently living in Paris 🇫🇷  
+I used to be a consultant, mostly doing agile product management.
 
 You should ckeck out <a href="https://gitlab.com/florian-s">my Gitlab <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab"  alt="Gitlab" width="16" height="16"/></a> where I host more personal projects (sorry Github).
 
-Beyond development, I have had the opportunity to manage some infrastructures (Linux + Docker) for student organizations. Nowadays I do it at home, self-hosting webapps. I am currently working as a consultant, my current activity leans more toward project management.
+Beyond development, I have had the opportunity to manage some infrastructures (Linux + Docker) for student organizations. 
 
-I 💙 open source software, I use Linux (Archlinux) and Firefox.
-
+I 💙 open source software, I use Linux (Archlinux) and I am a loyal Firefox user.
 
 ## Favorite tech
 
 ### Back
 
-My favorite stack for backend development is still Python + Django but Node.js is growing on me !
+I learned backend development with Python + Django, which I still really like. Professionally I now develop in Java + Spring Boot.
 
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
